@@ -33,4 +33,3 @@ artifacts:
     - env.json
     - Dockerfile
     - .dockerignore
-view rawbuildspec.yml hosted with ❤ by GitHub
